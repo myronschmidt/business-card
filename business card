@@ -1,0 +1,21 @@
+
+
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <div class="card">
+            <img 
+                class="avatar"
+                src="piccastle.jpg" 
+                alt="castle for test" 
+                >
+            <div>    
+                <h3>Myron Schmidt</h3>
+                <p>Developer</p>
+                <h4>Chicago, Il</h4>
+            </div>
+        </div>
+    </body>
+</html>
